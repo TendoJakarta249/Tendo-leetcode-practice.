@@ -11,4 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0118-pascals-triangle) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Math
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
