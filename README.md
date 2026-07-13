@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0118-pascals-triangle) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1341-movie-rating) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
