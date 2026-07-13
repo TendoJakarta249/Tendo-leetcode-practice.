@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/2485-find-the-pivot-integer) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
