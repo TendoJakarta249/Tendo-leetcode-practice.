@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0180-consecutive-numbers) |
 | [0262-trips-and-users](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0262-trips-and-users) |
 | [0585-investments-in-2016](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0585-investments-in-2016) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1045-customers-who-bought-all-products) |
