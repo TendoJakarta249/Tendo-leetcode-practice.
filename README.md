@@ -40,5 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0585-investments-in-2016) |
 | [0608-tree-node](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1045-customers-who-bought-all-products) |
+| [1280-students-and-examinations](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
