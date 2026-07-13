@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0728-self-dividing-numbers) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/2523-closest-prime-numbers-in-range) |
 ## Combinatorics
 |  |
 | ------- |
@@ -69,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
