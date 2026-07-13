@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0118-pascals-triangle) |
+| [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0060-permutation-sequence) |
+| [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0728-self-dividing-numbers) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
