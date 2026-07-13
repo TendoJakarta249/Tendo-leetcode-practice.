@@ -35,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0262-trips-and-users](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0262-trips-and-users) |
 | [0585-investments-in-2016](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
