@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1045-customers-who-bought-all-products) |
+| [1070-product-sales-analysis-iii](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1280-students-and-examinations) |
