@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0262-trips-and-users) |
+| [0511-game-play-analysis-i](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0586-customer-placing-the-largest-number-of-orders) |
