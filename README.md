@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/2523-closest-prime-numbers-in-range) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
