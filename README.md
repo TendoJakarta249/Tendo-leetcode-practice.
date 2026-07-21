@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0016-3sum-closest) |
 | [0118-pascals-triangle](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
+| [0812-largest-triangle-area](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0883-projection-area-of-3d-shapes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0883-projection-area-of-3d-shapes) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/2485-find-the-pivot-integer) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0883-projection-area-of-3d-shapes) |
 ## Matrix
 |  |
