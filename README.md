@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0016-3sum-closest) |
+| [0066-plus-one](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
 | [0812-largest-triangle-area](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0812-largest-triangle-area) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0263-ugly-number) |
