@@ -28,3 +28,14 @@ public:
         else return res;       
     }
 };
+
+/* for (...) {
+    int value = ...;      // tính tổng hoặc tích
+    value += carry;       // hoặc cộng giá trị đã có
+
+    digit = value % BASE;
+    carry = value / BASE;
+
+    // lưu digit
+    // truyền carry
+} */
