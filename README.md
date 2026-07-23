@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0070-climbing-stairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0012-integer-to-roman) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
