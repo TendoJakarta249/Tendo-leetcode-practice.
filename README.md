@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0070-climbing-stairs) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0048-rotate-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0883-projection-area-of-3d-shapes) |
 ## Memoization
 |  |
