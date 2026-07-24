@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0883-projection-area-of-3d-shapes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0048-rotate-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0883-projection-area-of-3d-shapes) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Memoization
 |  |
 | ------- |
