@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0118-pascals-triangle) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0172-factorial-trailing-zeroes) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0062-unique-paths) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Recursion
 |  |
