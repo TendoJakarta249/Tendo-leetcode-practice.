@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0070-climbing-stairs) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0060-permutation-sequence) |
 ## Prefix Sum
 |  |
