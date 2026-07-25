@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0415-add-strings) |
+| [2288-apply-discount-to-prices](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/2288-apply-discount-to-prices) |
 ## Simulation
 |  |
 | ------- |
