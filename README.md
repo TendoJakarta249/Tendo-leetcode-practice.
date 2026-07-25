@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0883-projection-area-of-3d-shapes) |
@@ -155,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
