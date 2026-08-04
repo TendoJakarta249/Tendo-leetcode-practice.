@@ -13,3 +13,11 @@ WHERE S.sales_id NOT IN
     FROM CompanyName AS CN
     WHERE CN.name = 'RED'
 );
+
+/* SELECT name
+FROM salesperson
+WHERE sales_id not in (SELECT sales_id
+FROM orders
+WHERE com_id = (SELECT com_id
+FROM company
+WHERE name = "Red")) */
