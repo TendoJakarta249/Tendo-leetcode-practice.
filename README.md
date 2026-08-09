@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1148-article-views-i) |
+| [1158-market-analysis-i](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1158-market-analysis-i) |
 | [1193-monthly-transactions-i](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/TendoJakarta249/Tendo-leetcode-practice./tree/master/1341-movie-rating) |
